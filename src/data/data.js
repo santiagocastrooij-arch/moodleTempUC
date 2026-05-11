@@ -6,7 +6,7 @@ export const estudiantes = [
     },
     {
         nombre: "Falcao",
-        github: "flacao",
+        github: "Falcao",
         frase: "¡Goool!",
     }
 
